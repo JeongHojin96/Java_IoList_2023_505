@@ -6,9 +6,8 @@
 	<artifactId>iolist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<!-- 3rd party LiB 정보를 설정하는 부분 -->
+	<!-- 3rd party LIB 정보를 설정하는 부분-->
 	<dependencies>
-
 		<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
@@ -21,7 +20,6 @@
 			<artifactId>ojdbc8</artifactId>
 			<version>23.2.0.0</version>
 		</dependency>
-
 	</dependencies>
 
 
